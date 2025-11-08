@@ -24,10 +24,13 @@ I extended the [Spark](https://github.com/sparkjsdev/spark ) shaders to create w
 
 For audio, I used Eleven Labs to generate calm, dreamcore-style music and developed a basic music analyzer to subtly control the intensity of the wave lighting effect.
 
+<img src="./demo.gif.gif" 
+alt="prompt-image"
+style="float: center;" /> 
 
 ### Run Dreamcore sample locally
 
-You could try a web demo directly [here](https://keli95566.github.io/dreamcore-experiment/).
+You could try a web demo directly [here](https://keli95566.github.io/dreamcore-experiment/). Notice that splat loading might take a while to load. 
 
 If you want to run locally,  make sure you have ``Node.js`` and ``npm`` installed on your system, and: 
 
