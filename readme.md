@@ -1,4 +1,4 @@
-## Dreamcore-Experiment
+## [Dreamcore-Experiment](https://keli95566.github.io/dreamcore-experiment/)
 
 <img src="./resources/image/prompt_image.png" alt="prompt-image"
 style="float: center;" /> 
@@ -26,6 +26,8 @@ For audio, I used Eleven Labs to generate calm, dreamcore-style music and develo
 
 
 ### Run Dreamcore sample locally
+
+You could try a web demo directly [here](https://keli95566.github.io/dreamcore-experiment/).
 
 If you want to run locally,  make sure you have ``Node.js`` and ``npm`` installed on your system, and: 
 
