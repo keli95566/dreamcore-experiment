@@ -1,0 +1,33 @@
+// Copyright (c) 2025  Ke Li
+// SPDX-License-Identifier: MIT
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spark • Dreamcore Experiment</title>
+  <style>
+    body { margin: 0; overflow: hidden; }
+    canvas { touch-action: none; display: block; }
+  </style>
+</head>
+<body>
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://cdnjs.cloudflare.com/ajax/libs/three.js/0.178.0/three.module.js",
+      "@sparkjsdev/spark": "https://sparkjs.dev/releases/spark/0.1.9/spark.module.js",
+      "react": "https://unpkg.com/react@18/umd/react.development.js",
+      "react-dom":"https://unpkg.com/react-dom@18/umd/react-dom.development.js",
+      "babel": "https://unpkg.com/@babel/standalone/babel.min.js",
+      "lil-gui":"https://cdn.jsdelivr.net/npm/lil-gui@0.21/+esm",
+      "./shaderEffects.js": "./js/shaderEffects.js",
+      "./audio.js": "./js/audio.js"
+    }
+  }
+  </script>
+  <script type="module" src="./js/main.js"></script>
+  
+</body>
+</html>

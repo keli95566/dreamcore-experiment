@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@sparkjsdev/spark": "^0.1.9",
+    "gsap": "^3.13.0",
+    "three": "^0.180.0"
+  }
+}
