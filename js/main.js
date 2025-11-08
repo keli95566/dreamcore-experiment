@@ -70,7 +70,7 @@ gui.add(effectParams, "waveSpeed", 0, 2, 0.01)
 
 
 const audioAnalyzer = new AudioAnalyzer();
-gui.add({ playMusic: () => audioAnalyzer.setupAudio("./Resources/music/Sundrenched_Underwater_Dreamcore.mp3") }, "playMusic").name("Play Music");
+gui.add({ playMusic: () => audioAnalyzer.setupAudio("./resources/music/Sundrenched_Underwater_Dreamcore.mp3") }, "playMusic").name("Play Music");
 
 
 // Shader setup
