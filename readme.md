@@ -24,9 +24,11 @@ I extended the [Spark](https://github.com/sparkjsdev/spark ) shaders to create w
 
 For audio, I used Eleven Labs to generate calm, dreamcore-style music and developed a basic music analyzer to subtly control the intensity of the wave lighting effect.
 
-<img src="./demo.gif.gif" 
+<img src="./demo.gif" 
 alt="prompt-image"
 style="float: center;" /> 
+
+**If you would like to achieve similar visual effects and more in Unity for building games and immersive experiences, please check out my [Unity asset here](https://payhip.com/b/eula1).**
 
 ### Run Dreamcore sample locally
 
